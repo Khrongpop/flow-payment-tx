@@ -1,0 +1,14 @@
+{
+	"accounts": {
+		"test_02": {
+			"address": "0eed2d5eba5c5a89",
+			"key": {
+				"type": "hex",
+				"index": 0,
+				"signatureAlgorithm": "ECDSA_P256",
+				"hashAlgorithm": "SHA3_256",
+				"privateKey": "f6c7b03a79f4483bb1a8789c195939100fd3aafb958cb0ad69970fc3d80855ba"
+			}
+		}
+	}
+}
